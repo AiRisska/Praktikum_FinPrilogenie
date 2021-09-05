@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PraktFin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PraktFin_jar</output-path>
+    <root id="archive" name="PraktFin.jar">
+      <element id="module-output" name="PraktFin" />
+    </root>
+  </artifact>
+</component>
