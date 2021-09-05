@@ -1,4 +1,4 @@
-package com.company;
+package comp;
 
 public class DinnerAdvisor {
 
